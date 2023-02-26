@@ -48,3 +48,7 @@ Request Body
 {
     file : img file (less than 1 mb)
 }
+
+5.http://localhost:2004/api/cleanObject
+
+method -- GET
